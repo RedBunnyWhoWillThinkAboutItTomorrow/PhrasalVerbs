@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+>
+
+    <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" android:background="@drawable/background_main_screen">
+
+        <TextView
+                android:text="Name"
+                android:paddingLeft="40dp"
+                android:onClick="AddSecondScreen"
+                android:background="@drawable/background_main_screen1"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:id="@+id/TextMainScreen" android:textSize="30sp"
+                android:textColor="@android:color/holo_orange_dark" android:textStyle="bold"
+        />
+    </androidx.cardview.widget.CardView>
+</LinearLayout>

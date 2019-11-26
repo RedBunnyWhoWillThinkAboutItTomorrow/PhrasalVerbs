@@ -1,0 +1,169 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Kotlin\RadixSort\PhrasalVerbs\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\Kotlin\RadixSort\PhrasalVerbs\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\Kotlin\RadixSort\PhrasalVerbs\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\Kotlin\RadixSort\PhrasalVerbs\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\e51b2c00b72218b3635b9dc824c15e36\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\81c68e00fc72429395ed34e898e97f38\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\e512e812c98d8d7d52f1008dfbd01900\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\4ece5916d9b47424c3d0b69bfe673d02\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\8f59d9e676e249defb5a477bc31d14fb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\56ccdbe194e15259f61717b4d96f7fc8\AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\f319d9a06bb6bcbdc5f41f519bdae689\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\9ae0488eb9dbacff3486c4c6477f94a6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\ba4bb4969b04bde5ad60972fb6802091\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\5fddb27a99fb10af7502352520cd9e2d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\4fcfd9c889909e8f41353c3e21a662a6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\ce7e3afeb90eda3527c7693feaa05e95\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\65d26dcff6fba8c5e9db65e5cdc716c2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\8c5ab14b01645db411aa9ff755de3d1d\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\c96f5bb54b84f8eba608c4833fb02737\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\77fdb48c28d7b202d7f33fe04a367bda\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\7f93dc4a55545f6e200bd49749060f17\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\5d379c7181a31edfe821bc1500f6eb29\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\38e17e2d112c70bf88c0d9cabeb67f35\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\2a452a97e983f6415c2fea70acedcfd6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\ab99ca2aa1f7a34a6c539bbfe660a632\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\c086045062bfaf1396ee9896cf8af37b\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\169a6f89688db40d42678ed678ed3426\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\b22f466fb44285f7d9a10668a53b8628\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\3ecfea09213db8ce8690308a72b84f49\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\83b0037a824df41c45d8d94ade6e2cbd\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Kotlin\RadixSort\PhrasalVerbs\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\Kotlin\RadixSort\PhrasalVerbs\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\Kotlin\RadixSort\PhrasalVerbs\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from D:\Kotlin\RadixSort\PhrasalVerbs\app\src\main\AndroidManifest.xml:3:11-45
+		INJECTED from D:\Kotlin\RadixSort\PhrasalVerbs\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Kotlin\RadixSort\PhrasalVerbs\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Kotlin\RadixSort\PhrasalVerbs\app\src\main\AndroidManifest.xml
+		ADDED from D:\Kotlin\RadixSort\PhrasalVerbs\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from D:\Kotlin\RadixSort\PhrasalVerbs\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Kotlin\RadixSort\PhrasalVerbs\app\src\main\AndroidManifest.xml
+		ADDED from D:\Kotlin\RadixSort\PhrasalVerbs\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from D:\Kotlin\RadixSort\PhrasalVerbs\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Kotlin\RadixSort\PhrasalVerbs\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\Kotlin\RadixSort\PhrasalVerbs\app\src\main\AndroidManifest.xml:4:1-62
+	android:name
+		ADDED from D:\Kotlin\RadixSort\PhrasalVerbs\app\src\main\AndroidManifest.xml:4:18-60
+application
+ADDED from D:\Kotlin\RadixSort\PhrasalVerbs\app\src\main\AndroidManifest.xml:5:5-22:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\e512e812c98d8d7d52f1008dfbd01900\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\e512e812c98d8d7d52f1008dfbd01900\AndroidManifest.xml:9:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\56ccdbe194e15259f61717b4d96f7fc8\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\56ccdbe194e15259f61717b4d96f7fc8\AndroidManifest.xml:7:5-12:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\77fdb48c28d7b202d7f33fe04a367bda\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\77fdb48c28d7b202d7f33fe04a367bda\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\38e17e2d112c70bf88c0d9cabeb67f35\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\38e17e2d112c70bf88c0d9cabeb67f35\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\77fdb48c28d7b202d7f33fe04a367bda\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from D:\Kotlin\RadixSort\PhrasalVerbs\app\src\main\AndroidManifest.xml:10:13-39
+	android:label
+		ADDED from D:\Kotlin\RadixSort\PhrasalVerbs\app\src\main\AndroidManifest.xml:8:13-45
+	android:roundIcon
+		ADDED from D:\Kotlin\RadixSort\PhrasalVerbs\app\src\main\AndroidManifest.xml:9:13-58
+	android:icon
+		ADDED from D:\Kotlin\RadixSort\PhrasalVerbs\app\src\main\AndroidManifest.xml:7:13-47
+	android:allowBackup
+		ADDED from D:\Kotlin\RadixSort\PhrasalVerbs\app\src\main\AndroidManifest.xml:6:13-39
+	android:theme
+		ADDED from D:\Kotlin\RadixSort\PhrasalVerbs\app\src\main\AndroidManifest.xml:11:13-44
+activity#ActivityPhrasalVerbs.ActivityPhrasalVerbs
+ADDED from D:\Kotlin\RadixSort\PhrasalVerbs\app\src\main\AndroidManifest.xml:12:9-13:20
+	android:name
+		ADDED from D:\Kotlin\RadixSort\PhrasalVerbs\app\src\main\AndroidManifest.xml:12:19-75
+activity#com.example.phrasalverbs.MainScreen.MainActivity
+ADDED from D:\Kotlin\RadixSort\PhrasalVerbs\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from D:\Kotlin\RadixSort\PhrasalVerbs\app\src\main\AndroidManifest.xml:15:19-58
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Kotlin\RadixSort\PhrasalVerbs\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from D:\Kotlin\RadixSort\PhrasalVerbs\app\src\main\AndroidManifest.xml:17:17-68
+	android:name
+		ADDED from D:\Kotlin\RadixSort\PhrasalVerbs\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Kotlin\RadixSort\PhrasalVerbs\app\src\main\AndroidManifest.xml:19:17-76
+	android:name
+		ADDED from D:\Kotlin\RadixSort\PhrasalVerbs\app\src\main\AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from D:\Kotlin\RadixSort\PhrasalVerbs\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Kotlin\RadixSort\PhrasalVerbs\app\src\main\AndroidManifest.xml
+INJECTED from D:\Kotlin\RadixSort\PhrasalVerbs\app\src\main\AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\e51b2c00b72218b3635b9dc824c15e36\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\e51b2c00b72218b3635b9dc824c15e36\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\81c68e00fc72429395ed34e898e97f38\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\81c68e00fc72429395ed34e898e97f38\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\e512e812c98d8d7d52f1008dfbd01900\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\e512e812c98d8d7d52f1008dfbd01900\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\4ece5916d9b47424c3d0b69bfe673d02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\4ece5916d9b47424c3d0b69bfe673d02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\8f59d9e676e249defb5a477bc31d14fb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\8f59d9e676e249defb5a477bc31d14fb\AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\56ccdbe194e15259f61717b4d96f7fc8\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\56ccdbe194e15259f61717b4d96f7fc8\AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\f319d9a06bb6bcbdc5f41f519bdae689\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\f319d9a06bb6bcbdc5f41f519bdae689\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\9ae0488eb9dbacff3486c4c6477f94a6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\9ae0488eb9dbacff3486c4c6477f94a6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\ba4bb4969b04bde5ad60972fb6802091\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\ba4bb4969b04bde5ad60972fb6802091\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\5fddb27a99fb10af7502352520cd9e2d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\5fddb27a99fb10af7502352520cd9e2d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\4fcfd9c889909e8f41353c3e21a662a6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\4fcfd9c889909e8f41353c3e21a662a6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\ce7e3afeb90eda3527c7693feaa05e95\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\ce7e3afeb90eda3527c7693feaa05e95\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\65d26dcff6fba8c5e9db65e5cdc716c2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\65d26dcff6fba8c5e9db65e5cdc716c2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\8c5ab14b01645db411aa9ff755de3d1d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\8c5ab14b01645db411aa9ff755de3d1d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\c96f5bb54b84f8eba608c4833fb02737\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\c96f5bb54b84f8eba608c4833fb02737\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\77fdb48c28d7b202d7f33fe04a367bda\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\77fdb48c28d7b202d7f33fe04a367bda\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\7f93dc4a55545f6e200bd49749060f17\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\7f93dc4a55545f6e200bd49749060f17\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\5d379c7181a31edfe821bc1500f6eb29\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\5d379c7181a31edfe821bc1500f6eb29\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\38e17e2d112c70bf88c0d9cabeb67f35\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\38e17e2d112c70bf88c0d9cabeb67f35\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\2a452a97e983f6415c2fea70acedcfd6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\2a452a97e983f6415c2fea70acedcfd6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\ab99ca2aa1f7a34a6c539bbfe660a632\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\ab99ca2aa1f7a34a6c539bbfe660a632\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\c086045062bfaf1396ee9896cf8af37b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\c086045062bfaf1396ee9896cf8af37b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\169a6f89688db40d42678ed678ed3426\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\169a6f89688db40d42678ed678ed3426\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\b22f466fb44285f7d9a10668a53b8628\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\b22f466fb44285f7d9a10668a53b8628\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\3ecfea09213db8ce8690308a72b84f49\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\3ecfea09213db8ce8690308a72b84f49\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\83b0037a824df41c45d8d94ade6e2cbd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\83b0037a824df41c45d8d94ade6e2cbd\AndroidManifest.xml:20:5-44
+INJECTED from D:\Kotlin\RadixSort\PhrasalVerbs\app\src\main\AndroidManifest.xml
+INJECTED from D:\Kotlin\RadixSort\PhrasalVerbs\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Kotlin\RadixSort\PhrasalVerbs\app\src\main\AndroidManifest.xml
+		ADDED from D:\Kotlin\RadixSort\PhrasalVerbs\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Kotlin\RadixSort\PhrasalVerbs\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Kotlin\RadixSort\PhrasalVerbs\app\src\main\AndroidManifest.xml
+		ADDED from D:\Kotlin\RadixSort\PhrasalVerbs\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Kotlin\RadixSort\PhrasalVerbs\app\src\main\AndroidManifest.xml
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\56ccdbe194e15259f61717b4d96f7fc8\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\56ccdbe194e15259f61717b4d96f7fc8\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\56ccdbe194e15259f61717b4d96f7fc8\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\56ccdbe194e15259f61717b4d96f7fc8\AndroidManifest.xml:9:13-64
