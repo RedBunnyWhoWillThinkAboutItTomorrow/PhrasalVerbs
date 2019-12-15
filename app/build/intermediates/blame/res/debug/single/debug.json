@@ -168,12 +168,12 @@
         "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\e51b2c00b72218b3635b9dc824c15e36\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
-        "merged": "D:\\Kotlin\\RadixSort\\PhrasalVerbs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
-        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\e51b2c00b72218b3635b9dc824c15e36\\res\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
-    },
-    {
         "merged": "D:\\Kotlin\\RadixSort\\PhrasalVerbs\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_btn_colored_borderless_text_material.xml.flat",
         "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\e51b2c00b72218b3635b9dc824c15e36\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "D:\\Kotlin\\RadixSort\\PhrasalVerbs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\e51b2c00b72218b3635b9dc824c15e36\\res\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
         "merged": "D:\\Kotlin\\RadixSort\\PhrasalVerbs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
@@ -204,24 +204,24 @@
         "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\e51b2c00b72218b3635b9dc824c15e36\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "D:\\Kotlin\\RadixSort\\PhrasalVerbs\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_go_search_api_material.xml.flat",
-        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\e51b2c00b72218b3635b9dc824c15e36\\res\\drawable\\abc_ic_go_search_api_material.xml"
-    },
-    {
         "merged": "D:\\Kotlin\\RadixSort\\PhrasalVerbs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
         "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\e51b2c00b72218b3635b9dc824c15e36\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Kotlin\\RadixSort\\PhrasalVerbs\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_go_search_api_material.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\e51b2c00b72218b3635b9dc824c15e36\\res\\drawable\\abc_ic_go_search_api_material.xml"
     },
     {
         "merged": "D:\\Kotlin\\RadixSort\\PhrasalVerbs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
         "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\e51b2c00b72218b3635b9dc824c15e36\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
     },
     {
-        "merged": "D:\\Kotlin\\RadixSort\\PhrasalVerbs\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_vector_test.xml.flat",
-        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\9ae0488eb9dbacff3486c4c6477f94a6\\res\\drawable\\abc_vector_test.xml"
-    },
-    {
         "merged": "D:\\Kotlin\\RadixSort\\PhrasalVerbs\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_background_transition_holo_light.xml.flat",
         "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\e51b2c00b72218b3635b9dc824c15e36\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Kotlin\\RadixSort\\PhrasalVerbs\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_vector_test.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\9ae0488eb9dbacff3486c4c6477f94a6\\res\\drawable\\abc_vector_test.xml"
     },
     {
         "merged": "D:\\Kotlin\\RadixSort\\PhrasalVerbs\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
@@ -268,12 +268,12 @@
         "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\e51b2c00b72218b3635b9dc824c15e36\\res\\color\\abc_secondary_text_material_dark.xml"
     },
     {
-        "merged": "D:\\Kotlin\\RadixSort\\PhrasalVerbs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
-        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\e51b2c00b72218b3635b9dc824c15e36\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
-    },
-    {
         "merged": "D:\\Kotlin\\RadixSort\\PhrasalVerbs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
         "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\e51b2c00b72218b3635b9dc824c15e36\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\Kotlin\\RadixSort\\PhrasalVerbs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\e51b2c00b72218b3635b9dc824c15e36\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
         "merged": "D:\\Kotlin\\RadixSort\\PhrasalVerbs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_longpressed_holo.9.png.flat",
@@ -304,16 +304,16 @@
         "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\e51b2c00b72218b3635b9dc824c15e36\\res\\anim\\btn_checkbox_to_checked_box_outer_merged_animation.xml"
     },
     {
-        "merged": "D:\\Kotlin\\RadixSort\\PhrasalVerbs\\app\\build\\intermediates\\res\\merged\\debug\\layout-watch-v20_abc_alert_dialog_title_material.xml.flat",
-        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\e51b2c00b72218b3635b9dc824c15e36\\res\\layout-watch-v20\\abc_alert_dialog_title_material.xml"
+        "merged": "D:\\Kotlin\\RadixSort\\PhrasalVerbs\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\77fdb48c28d7b202d7f33fe04a367bda\\res\\layout-v21\\notification_template_icon_group.xml"
     },
     {
         "merged": "D:\\Kotlin\\RadixSort\\PhrasalVerbs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
         "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\e51b2c00b72218b3635b9dc824c15e36\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
-        "merged": "D:\\Kotlin\\RadixSort\\PhrasalVerbs\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
-        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\77fdb48c28d7b202d7f33fe04a367bda\\res\\layout-v21\\notification_template_icon_group.xml"
+        "merged": "D:\\Kotlin\\RadixSort\\PhrasalVerbs\\app\\build\\intermediates\\res\\merged\\debug\\layout-watch-v20_abc_alert_dialog_title_material.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\e51b2c00b72218b3635b9dc824c15e36\\res\\layout-watch-v20\\abc_alert_dialog_title_material.xml"
     },
     {
         "merged": "D:\\Kotlin\\RadixSort\\PhrasalVerbs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
@@ -360,12 +360,12 @@
         "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\e51b2c00b72218b3635b9dc824c15e36\\res\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png"
     },
     {
-        "merged": "D:\\Kotlin\\RadixSort\\PhrasalVerbs\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_checkbox.xml.flat",
-        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\e51b2c00b72218b3635b9dc824c15e36\\res\\layout\\abc_list_menu_item_checkbox.xml"
-    },
-    {
         "merged": "D:\\Kotlin\\RadixSort\\PhrasalVerbs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
         "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\e51b2c00b72218b3635b9dc824c15e36\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Kotlin\\RadixSort\\PhrasalVerbs\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_checkbox.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\e51b2c00b72218b3635b9dc824c15e36\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
         "merged": "D:\\Kotlin\\RadixSort\\PhrasalVerbs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
@@ -484,16 +484,16 @@
         "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\e51b2c00b72218b3635b9dc824c15e36\\res\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png"
     },
     {
-        "merged": "D:\\Kotlin\\RadixSort\\PhrasalVerbs\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_default.xml.flat",
-        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\e51b2c00b72218b3635b9dc824c15e36\\res\\color-v23\\abc_tint_default.xml"
+        "merged": "D:\\Kotlin\\RadixSort\\PhrasalVerbs\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_item_material.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\e51b2c00b72218b3635b9dc824c15e36\\res\\layout\\select_dialog_item_material.xml"
     },
     {
         "merged": "D:\\Kotlin\\RadixSort\\PhrasalVerbs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\e51b2c00b72218b3635b9dc824c15e36\\res\\drawable-ldrtl-xhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
-        "merged": "D:\\Kotlin\\RadixSort\\PhrasalVerbs\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_item_material.xml.flat",
-        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\e51b2c00b72218b3635b9dc824c15e36\\res\\layout\\select_dialog_item_material.xml"
+        "merged": "D:\\Kotlin\\RadixSort\\PhrasalVerbs\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_default.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\e51b2c00b72218b3635b9dc824c15e36\\res\\color-v23\\abc_tint_default.xml"
     },
     {
         "merged": "D:\\Kotlin\\RadixSort\\PhrasalVerbs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
@@ -548,12 +548,12 @@
         "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\e51b2c00b72218b3635b9dc824c15e36\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
     },
     {
-        "merged": "D:\\Kotlin\\RadixSort\\PhrasalVerbs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
-        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\e51b2c00b72218b3635b9dc824c15e36\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
-    },
-    {
         "merged": "D:\\Kotlin\\RadixSort\\PhrasalVerbs\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_checkbox_checked_mtrl.xml.flat",
         "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\e51b2c00b72218b3635b9dc824c15e36\\res\\drawable\\btn_checkbox_checked_mtrl.xml"
+    },
+    {
+        "merged": "D:\\Kotlin\\RadixSort\\PhrasalVerbs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\e51b2c00b72218b3635b9dc824c15e36\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
     },
     {
         "merged": "D:\\Kotlin\\RadixSort\\PhrasalVerbs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
@@ -564,20 +564,20 @@
         "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\e51b2c00b72218b3635b9dc824c15e36\\res\\drawable-xxhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
     },
     {
-        "merged": "D:\\Kotlin\\RadixSort\\PhrasalVerbs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
-        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\e51b2c00b72218b3635b9dc824c15e36\\res\\drawable-mdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
-    },
-    {
         "merged": "D:\\Kotlin\\RadixSort\\PhrasalVerbs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_black_16dp.png.flat",
         "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\e51b2c00b72218b3635b9dc824c15e36\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_16dp.png"
     },
     {
-        "merged": "D:\\Kotlin\\RadixSort\\PhrasalVerbs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
-        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\e51b2c00b72218b3635b9dc824c15e36\\res\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+        "merged": "D:\\Kotlin\\RadixSort\\PhrasalVerbs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\e51b2c00b72218b3635b9dc824c15e36\\res\\drawable-mdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
     },
     {
         "merged": "D:\\Kotlin\\RadixSort\\PhrasalVerbs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
         "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\77fdb48c28d7b202d7f33fe04a367bda\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\Kotlin\\RadixSort\\PhrasalVerbs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\e51b2c00b72218b3635b9dc824c15e36\\res\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
         "merged": "D:\\Kotlin\\RadixSort\\PhrasalVerbs\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_tooltip.xml.flat",
@@ -588,16 +588,20 @@
         "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\77fdb48c28d7b202d7f33fe04a367bda\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
     },
     {
-        "merged": "D:\\Kotlin\\RadixSort\\PhrasalVerbs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
-        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\e51b2c00b72218b3635b9dc824c15e36\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
-    },
-    {
         "merged": "D:\\Kotlin\\RadixSort\\PhrasalVerbs\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_borderless_material.xml.flat",
         "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\e51b2c00b72218b3635b9dc824c15e36\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
+        "merged": "D:\\Kotlin\\RadixSort\\PhrasalVerbs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\e51b2c00b72218b3635b9dc824c15e36\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
         "merged": "D:\\Kotlin\\RadixSort\\PhrasalVerbs\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_checkbox_unchecked_to_checked_mtrl_animation.xml.flat",
         "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\e51b2c00b72218b3635b9dc824c15e36\\res\\drawable\\btn_checkbox_unchecked_to_checked_mtrl_animation.xml"
+    },
+    {
+        "merged": "D:\\Kotlin\\RadixSort\\PhrasalVerbs\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_list_activity_collocations.xml.flat",
+        "source": "D:\\Kotlin\\RadixSort\\PhrasalVerbs\\app\\src\\main\\res\\layout\\item_list_activity_collocations.xml"
     },
     {
         "merged": "D:\\Kotlin\\RadixSort\\PhrasalVerbs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
@@ -624,12 +628,12 @@
         "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\77fdb48c28d7b202d7f33fe04a367bda\\res\\drawable-v21\\notification_action_background.xml"
     },
     {
-        "merged": "D:\\Kotlin\\RadixSort\\PhrasalVerbs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
-        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\e51b2c00b72218b3635b9dc824c15e36\\res\\drawable-xxhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
-    },
-    {
         "merged": "D:\\Kotlin\\RadixSort\\PhrasalVerbs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\e51b2c00b72218b3635b9dc824c15e36\\res\\drawable-xxhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Kotlin\\RadixSort\\PhrasalVerbs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\e51b2c00b72218b3635b9dc824c15e36\\res\\drawable-xxhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
         "merged": "D:\\Kotlin\\RadixSort\\PhrasalVerbs\\app\\build\\intermediates\\res\\merged\\debug\\interpolator_fast_out_slow_in.xml.flat",
@@ -660,16 +664,16 @@
         "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\e51b2c00b72218b3635b9dc824c15e36\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "D:\\Kotlin\\RadixSort\\PhrasalVerbs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
-        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\e51b2c00b72218b3635b9dc824c15e36\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+        "merged": "D:\\Kotlin\\RadixSort\\PhrasalVerbs\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_arrow_drop_right_black_24dp.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\e51b2c00b72218b3635b9dc824c15e36\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
         "merged": "D:\\Kotlin\\RadixSort\\PhrasalVerbs\\app\\build\\intermediates\\res\\merged\\debug\\anim_btn_radio_to_on_mtrl_dot_group_animation.xml.flat",
         "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\e51b2c00b72218b3635b9dc824c15e36\\res\\anim\\btn_radio_to_on_mtrl_dot_group_animation.xml"
     },
     {
-        "merged": "D:\\Kotlin\\RadixSort\\PhrasalVerbs\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_arrow_drop_right_black_24dp.xml.flat",
-        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\e51b2c00b72218b3635b9dc824c15e36\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+        "merged": "D:\\Kotlin\\RadixSort\\PhrasalVerbs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\e51b2c00b72218b3635b9dc824c15e36\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
         "merged": "D:\\Kotlin\\RadixSort\\PhrasalVerbs\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
@@ -1102,6 +1106,10 @@
     {
         "merged": "D:\\Kotlin\\RadixSort\\PhrasalVerbs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\e51b2c00b72218b3635b9dc824c15e36\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Kotlin\\RadixSort\\PhrasalVerbs\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_collocasions.xml.flat",
+        "source": "D:\\Kotlin\\RadixSort\\PhrasalVerbs\\app\\src\\main\\res\\layout\\activity_collocasions.xml"
     },
     {
         "merged": "D:\\Kotlin\\RadixSort\\PhrasalVerbs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",

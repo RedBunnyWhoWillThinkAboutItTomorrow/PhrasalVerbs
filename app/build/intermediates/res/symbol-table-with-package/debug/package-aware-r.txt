@@ -717,6 +717,8 @@ id CTRL
 id FUNCTION
 id META
 id RVActivityPhrasalVerbs
+id RVCollocations
+id RVCollocations_item
 id RVmainscreen
 id SHIFT
 id SYM
@@ -887,7 +889,10 @@ id text
 id text2
 id textSpacerNoButtons
 id textSpacerNoTitle
+id textView2
 id textView_PhrasalVerbs
+id textView_collocations_english
+id textView_collocations_translation
 id time
 id title
 id titleDividerNoCustom
@@ -941,9 +946,11 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_collocasions
 layout activity_main
 layout activity_phrasal_verbs
 layout custom_dialog
+layout item_list_activity_collocations
 layout item_list_activity_phrasal_verbs
 layout item_list_main_screen
 layout notification_action
