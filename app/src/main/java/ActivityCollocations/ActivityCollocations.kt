@@ -3,16 +3,14 @@ package ActivityCollocations
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
-import androidx.recyclerview.widget.RecyclerView
 import com.example.phrasalverbs.R
-import kotlinx.android.synthetic.main.activity_phrasal_verbs.*
+import kotlinx.android.synthetic.main.activity_collocasions.*
 
 class ActivityCollocations  : AppCompatActivity() {
     val  ListName1 = ArrayList<CollocationsModel>()
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_collocasions)
-        val recycler = findViewById<RecyclerView>(R.id.RVCollocations)
 
         ListName1.add(CollocationsModel(
                 "Time passes so fast", "Час летить так швидко"
@@ -44,7 +42,7 @@ class ActivityCollocations  : AppCompatActivity() {
                 "Keep your eyes peeled ","Пильнувати,бути на сторожі"
             )
         )
-        recycler.layoutManager = LinearLayoutManager(this)
-        recycler.adapter = AdapterCollocations(this,ListName1)
+        RVCollocations.layoutManager = LinearLayoutManager(this)
+        RVCollocations.adapter = AdapterCollocations(this,ListName1)
     }
 }

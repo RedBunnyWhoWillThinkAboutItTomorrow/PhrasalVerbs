@@ -1,13 +1,77 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout
-        xmlns:android="http://schemas.android.com/apk/res/android"
-        xmlns:tools="http://schemas.android.com/tools"
-        xmlns:app="http://schemas.android.com/apk/res-auto"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+        android:background="@drawable/backgroundms"
+>
+
+
+    <TextView
+        android:text="PhrasalVerbs"
+        android:paddingLeft="40dp"
+        android:onClick="AddActivityPhrasalVerbs"
+        android:layout_gravity="center"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        tools:context=".MainScreen.MainActivity">
-    <androidx.recyclerview.widget.RecyclerView
+        android:layout_height="100dp"
+        android:id="@+id/textView_PhrasalVerbs" android:textSize="30sp"
+        android:textColor="@android:color/holo_orange_dark" android:textStyle="bold"
+/>
+    <TextView
+            android:text="Collocations"
+            android:paddingLeft="40dp"
+            android:onClick="AddCollocations"
+            android:layout_gravity="center"
             android:layout_width="match_parent"
-            android:layout_height="match_parent" tools:layout_editor_absoluteY="8dp"
-            tools:layout_editor_absoluteX="8dp" android:id="@+id/RVmainscreen"/>
-</androidx.constraintlayout.widget.ConstraintLayout>
+            android:layout_height="100dp"
+            android:id="@+id/textView_Collocations" android:textSize="30sp"
+            android:textColor="@android:color/holo_orange_dark" android:textStyle="bold"
+    />
+    <TextView
+            android:text="Fruits"
+            android:paddingLeft="40dp"
+            android:onClick="AddFruits"
+            android:layout_gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:id="@+id/textView_Fruits" android:textSize="30sp"
+            android:textColor="@android:color/holo_orange_dark" android:textStyle="bold"
+    />
+    <TextView
+            android:text="Vegetables"
+            android:paddingLeft="40dp"
+            android:layout_gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:id="@+id/textView_Vegetables" android:textSize="30sp"
+            android:textColor="@android:color/holo_orange_dark" android:textStyle="bold"
+    />
+    <TextView
+            android:text="Professions"
+            android:paddingLeft="40dp"
+            android:layout_gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:id="@+id/textView_Professions" android:textSize="30sp"
+            android:textColor="@android:color/holo_orange_dark" android:textStyle="bold"
+    />
+    <TextView
+            android:text="IrregularVerbs"
+            android:paddingLeft="40dp"
+            android:layout_gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:id="@+id/textView_IrregularVerbs" android:textSize="30sp"
+            android:textColor="@android:color/holo_orange_dark" android:textStyle="bold"
+    />
+    <TextView
+            android:text="Cards"
+            android:paddingLeft="40dp"
+            android:layout_gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:id="@+id/textView_Cards" android:textSize="30sp"
+            android:textColor="@android:color/holo_orange_dark" android:textStyle="bold"
+    />
+</LinearLayout>

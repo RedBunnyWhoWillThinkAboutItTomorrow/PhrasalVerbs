@@ -3,15 +3,16 @@
               xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools"
               android:orientation="vertical"
               android:layout_width="match_parent"
-              android:layout_height="wrap_content">
+              android:layout_height="wrap_content"
+        >
 
     <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
             android:layout_height="match_parent" android:id="@+id/imageViewActivity_phrasal_verbs">
         <androidx.constraintlayout.widget.ConstraintLayout
                 android:layout_width="match_parent"
-                android:layout_height="match_parent" android:background="@android:color/holo_blue_bright"
-                android:backgroundTint="#5B417776">
+                android:layout_height="match_parent"
+                >
 
             <ImageView
                     android:layout_width="139dp"

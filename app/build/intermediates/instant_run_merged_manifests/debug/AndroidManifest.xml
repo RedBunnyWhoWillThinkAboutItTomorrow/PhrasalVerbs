@@ -22,6 +22,10 @@
         android:theme="@style/AppTheme" >
         <activity android:name="ActivityPhrasalVerbs.ActivityPhrasalVerbs" >
         </activity>
+        <activity android:name="ActivityCollocations.ActivityCollocations" >
+        </activity>
+        <activity android:name="Fruits.ActivityFruits" >
+        </activity>
         <activity android:name="com.example.phrasalverbs.MainScreen.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

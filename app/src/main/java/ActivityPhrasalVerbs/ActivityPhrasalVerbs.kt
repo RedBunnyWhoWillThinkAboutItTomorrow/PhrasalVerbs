@@ -3,7 +3,6 @@ package ActivityPhrasalVerbs
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.example.phrasalverbs.MainScreen.Adapter
 import com.example.phrasalverbs.R
 import kotlinx.android.synthetic.main.activity_main.*
 import kotlinx.android.synthetic.main.activity_phrasal_verbs.*
@@ -14,9 +13,10 @@ class ActivityPhrasalVerbs : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_phrasal_verbs)
 
+
         ListName.add(
-                PhrasalVerbsModel("https://media.istockphoto.com/vectors/senior-male-ideas-come-up-with-vector-id951465252","Come up with")
-                )
+            PhrasalVerbsModel("https://media.istockphoto.com/vectors/senior-male-ideas-come-up-with-vector-id951465252","Come up with")
+        )
         ListName.add(
             PhrasalVerbsModel("https://www.wikihow.com/images/thumb/1/14/Balance-Work-and-Family-Step-14.jpg/aid129756-v4-728px-Balance-Work-and-Family-Step-14.jpg","Hang out")
         )

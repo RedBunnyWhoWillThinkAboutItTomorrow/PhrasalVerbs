@@ -1,6 +1,9 @@
 package com.example.phrasalverbs.MainScreen
 
 import ActivityPhrasalVerbs.ActivityPhrasalVerbs
+import ActivityCollocations.ActivityCollocations
+import Fruits.ActivityFruits
+
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -14,12 +17,19 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        RVmainscreen.layoutManager = LinearLayoutManager(this)
-        RVmainscreen.adapter = Adapter()
+
 
     }
-    fun AddSecondScreen (view:View){
+    fun AddActivityPhrasalVerbs (view:View){
         val add = Intent(this, ActivityPhrasalVerbs::class.java)
+        startActivity(add)
+    }
+    fun AddCollocations (view:View){
+        val add = Intent(this, ActivityCollocations::class.java)
+        startActivity(add)
+    }
+    fun AddFruits(view:View){
+        val add = Intent(this, ActivityFruits::class.java)
         startActivity(add)
     }
 }
