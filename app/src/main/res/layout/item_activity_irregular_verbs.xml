@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="60dp" android:id="@+id/RVIrregularVerbs_item">
+
+    <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="60dp">
+        <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="60dp">
+
+            <TextView
+                    android:id="@+id/textView_IrregularVerbs_infinitive"
+                    style="@android:style/Widget.TextView.PopupMenu"
+                    android:layout_width="70dp"
+                    android:layout_height="50dp"
+                    android:layout_marginStart="40dp"
+                    android:layout_marginTop="8dp"
+                    android:layout_marginEnd="3dp"
+                    android:text="Infinitive"
+                    android:textColor="@android:color/holo_purple"
+                    android:textColorHighlight="@android:color/black"
+                    android:textStyle="italic"
+                    app:layout_constraintEnd_toStartOf="@+id/textView_collocations_english"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                    android:id="@+id/textView_IrregularVerbs_pastsimple"
+                    style="@android:style/Widget.TextView.PopupMenu"
+                    android:layout_width="70dp"
+                    android:layout_height="50dp"
+                    android:layout_marginStart="40dp"
+                    android:layout_marginTop="4dp"
+                    android:layout_marginEnd="3dp"
+                    android:text="Past Participle"
+                    android:textColor="#96CC66"
+                    android:textColorHighlight="@android:color/black"
+                    android:textStyle="italic"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="0.189"
+                    app:layout_constraintStart_toEndOf="@+id/textView_IrregularVerbs_pastparticiple"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                    android:id="@+id/textView_IrregularVerbs_pastparticiple"
+                    style="@android:style/Widget.TextView.PopupMenu"
+                    android:layout_width="70dp"
+                    android:layout_height="50dp"
+                    android:layout_marginStart="40dp"
+                    android:layout_marginTop="4dp"
+                    android:layout_marginEnd="3dp"
+                    android:text="Past Simple"
+                    android:textColor="#96CC66"
+                    android:textColorHighlight="@android:color/black"
+                    android:textStyle="italic"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="0.106"
+                    app:layout_constraintStart_toEndOf="@+id/textView_IrregularVerbs_infinitive"
+                    app:layout_constraintTop_toTopOf="parent" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.cardview.widget.CardView>
+</LinearLayout>
