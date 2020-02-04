@@ -296,6 +296,7 @@ attr ratingBarStyle
 attr ratingBarStyleIndicator
 attr ratingBarStyleSmall
 attr recyclerViewStyle
+attr reflectionColor
 attr reverseLayout
 attr searchHintIcon
 attr searchIcon
@@ -688,7 +689,7 @@ drawable abc_textfield_search_material
 drawable abc_vector_test
 drawable background_main_screen
 drawable background_main_screen1
-drawable backgroundms
+drawable backgroundnew
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
 drawable btn_checkbox_unchecked_mtrl
@@ -697,8 +698,11 @@ drawable btn_radio_off_mtrl
 drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
+drawable ic_child_care_black_24dp
+drawable ic_launcher
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+drawable mask
 drawable notification_action_background
 drawable notification_bg
 drawable notification_bg_low
@@ -711,6 +715,7 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable spot_mask
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
 id ALT
@@ -721,6 +726,10 @@ id RVActivityPhrasalVerbs
 id RVCollocations
 id RVCollocations_item
 id RVFruits
+id RVIrregularVerbs
+id RVIrregularVerbs_item
+id RVProfessions
+id RVVegetables
 id SHIFT
 id SYM
 id accessibility_action_clickable_span
@@ -850,6 +859,7 @@ id screen
 id scrollIndicatorDown
 id scrollIndicatorUp
 id scrollView
+id search
 id search_badge
 id search_bar
 id search_button
@@ -893,6 +903,9 @@ id textView_Cards
 id textView_Collocations
 id textView_Fruits
 id textView_IrregularVerbs
+id textView_IrregularVerbs_infinitive
+id textView_IrregularVerbs_pastparticiple
+id textView_IrregularVerbs_pastsimple
 id textView_PhrasalVerbs
 id textView_Professions
 id textView_Vegetables
@@ -902,6 +915,7 @@ id time
 id title
 id titleDividerNoCustom
 id title_template
+id toolbar
 id top
 id topPanel
 id unchecked
@@ -951,11 +965,15 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activiry_irregular_verbs
 layout activity_collocasions
 layout activity_fruits
 layout activity_main
 layout activity_phrasal_verbs
+layout activity_professions
+layout activity_vegetables
 layout custom_dialog
+layout item_activity_irregular_verbs
 layout item_list_activity_collocations
 layout item_list_activity_phrasal_verbs
 layout notification_action
@@ -968,6 +986,7 @@ layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
 layout support_simple_spinner_dropdown_item
+menu menu
 mipmap ic_launcher
 mipmap ic_launcher_round
 string abc_action_bar_home_description
@@ -1393,6 +1412,7 @@ styleable PopupWindowBackgroundState state_above_anchor
 styleable RecycleListView paddingBottomNoButtons paddingTopNoTitle
 styleable RecyclerView android_orientation android_clipToPadding android_descendantFocusability fastScrollEnabled fastScrollHorizontalThumbDrawable fastScrollHorizontalTrackDrawable fastScrollVerticalThumbDrawable fastScrollVerticalTrackDrawable layoutManager reverseLayout spanCount stackFromEnd
 styleable SearchView android_focusable android_maxWidth android_inputType android_imeOptions closeIcon commitIcon defaultQueryHint goIcon iconifiedByDefault layout queryBackground queryHint searchHintIcon searchIcon submitBackground suggestionRowLayout voiceIcon
+styleable ShimmerView reflectionColor
 styleable Spinner android_entries android_popupBackground android_prompt android_dropDownWidth popupTheme
 styleable StateListDrawable android_dither android_visible android_variablePadding android_constantSize android_enterFadeDuration android_exitFadeDuration
 styleable StateListDrawableItem android_drawable

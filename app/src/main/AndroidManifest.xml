@@ -9,11 +9,17 @@
             android:roundIcon="@mipmap/ic_launcher_round"
             android:supportsRtl="true"
             android:theme="@style/AppTheme">
-        <activity android:name="ActivityPhrasalVerbs.ActivityPhrasalVerbs">
+        <activity android:name="com.example.phrasalverbs.MainScreen.ActivityPhrasalVerbs.ActivityPhrasalVerbs">
         </activity>
-        <activity android:name="ActivityCollocations.ActivityCollocations">
+        <activity android:name="com.example.phrasalverbs.MainScreen.ActivityCollocations.ActivityCollocations">
         </activity>
-        <activity android:name="Fruits.ActivityFruits">
+        <activity android:name="com.example.phrasalverbs.MainScreen.Fruits.ActivityFruits">
+        </activity>
+        <activity android:name="com.example.phrasalverbs.MainScreen.Fruits.ActivityVegetables">
+        </activity>
+        <activity android:name="com.example.phrasalverbs.MainScreen.Professions.ActivityProfessions">
+        </activity>
+        <activity android:name="com.example.phrasalverbs.MainScreen.IrregularVerbs.ActivityIrregularVerbs">
         </activity>
         <activity android:name=".MainScreen.MainActivity">
             <intent-filter>
