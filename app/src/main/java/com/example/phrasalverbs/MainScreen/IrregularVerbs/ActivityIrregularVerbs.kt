@@ -14,7 +14,7 @@ class ActivityIrregularVerbs  : AppCompatActivity() {
         val  ListName2 = ArrayList<IrregularVerbsModel>()
         override fun onCreate(savedInstanceState: Bundle?) {
             super.onCreate(savedInstanceState)
-            setContentView(R.layout.item_activity_irregular_verbs)
+            setContentView(R.layout.activiry_irregular_verbs)
 
 
             ListName2.add(
@@ -133,7 +133,237 @@ class ActivityIrregularVerbs  : AppCompatActivity() {
                 IrregularVerbsModel("Grow", "Grew", "Grown"
                 )
             )
-       //     val RVIrregularVerbs = findViewById(R.id.RVIrregularVerbs_item) as RecyclerView
+            ListName2.add(
+                IrregularVerbsModel("Hang", "Hung", "Hung"
+                )
+            )
+            ListName2.add(
+                IrregularVerbsModel("Have", "Had", "Had"
+                )
+            )
+            ListName2.add(
+                IrregularVerbsModel("Hear", "Heard", "Heard"
+                )
+            )
+            ListName2.add(
+                IrregularVerbsModel("Hide", "Hid", "Hidden"
+                )
+            )
+            ListName2.add(
+                IrregularVerbsModel("Hit", "Hit", "Hit"
+                )
+            )
+            ListName2.add(
+                IrregularVerbsModel("Hold", "Held", "Held"
+                )
+            )
+            ListName2.add(
+                    IrregularVerbsModel("Hurt", "Hurt", "Hurt"
+                    )
+                    )
+            ListName2.add(
+                IrregularVerbsModel("Keep", "Kept", "Kept"
+                )
+            )
+            ListName2.add(
+                IrregularVerbsModel("Know", "Knew", "Known"
+                )
+            )
+            ListName2.add(
+                IrregularVerbsModel("Lay", "Laid", "Laid"
+                )
+            )
+            ListName2.add(
+                IrregularVerbsModel("Learn", "Learnt", "Learnt"
+                )
+            )
+            ListName2.add(
+                IrregularVerbsModel("Leave", "Left", "Left"
+                )
+            )
+            ListName2.add(
+                IrregularVerbsModel("Lend", "Lent", "Lent"
+                )
+            )
+            ListName2.add(
+                IrregularVerbsModel("Let", "Let", "Let"
+                )
+            )
+            ListName2.add(
+                IrregularVerbsModel("Lose", "Lost", "Lost"
+                )
+            )
+            ListName2.add(
+                IrregularVerbsModel("Make", "Made", "Made"
+                )
+            )
+            ListName2.add(
+                IrregularVerbsModel("Mean", "Meant", "Meant"
+                )
+            )
+            ListName2.add(
+                IrregularVerbsModel("Meet", "Met", "Met"
+                )
+            )
+            ListName2.add(
+                IrregularVerbsModel("Mistake", "Mistook", "Mistaken"
+                )
+            )
+            ListName2.add(
+                IrregularVerbsModel("Pay", "Paid", "Paid"
+                )
+            )
+            ListName2.add(
+                IrregularVerbsModel("Put", "Put", "Put"
+                )
+            )
+            ListName2.add(
+                IrregularVerbsModel("Read", "Read", "Read"
+                )
+            )
+            ListName2.add(
+                IrregularVerbsModel("Ride", "Rode", "Ridden"
+                )
+            )
+            ListName2.add(
+                IrregularVerbsModel("Ring", "Rang", "Rung"
+                )
+            )
+            ListName2.add(
+                IrregularVerbsModel("Rise", "Rose", "Risen"
+                )
+            )
+            ListName2.add(
+                IrregularVerbsModel("Run", "Ran", "Run"
+                )
+            )
+            ListName2.add(
+                IrregularVerbsModel("Say", "Said", "Said"
+                )
+            )
+            ListName2.add(
+                IrregularVerbsModel("See", "Saw", "Seen"
+                )
+            )
+            ListName2.add(
+                IrregularVerbsModel("Sell", "Sold", "Sold"
+                )
+            )
+            ListName2.add(
+                IrregularVerbsModel("Send", "Sent", "Sent"
+                )
+            )
+            ListName2.add(
+                IrregularVerbsModel("Set", "Set", "Set"
+                )
+            )
+            ListName2.add(
+                    IrregularVerbsModel("Shake", "Shook", "Shaken"
+                    )
+                    )
+            ListName2.add(
+                IrregularVerbsModel("Show", "Showed", "Shown"
+                )
+            )
+
+            ListName2.add(
+                IrregularVerbsModel("Shut", "Shut", "Shut"
+                )
+            )
+            ListName2.add(
+                IrregularVerbsModel("Sing", "Sang", "Sung"
+                )
+            )
+            ListName2.add(
+                IrregularVerbsModel("Sink", "Sank", "Sunk"
+                )
+            )
+            ListName2.add(
+                IrregularVerbsModel("Sit", "Sat", "Sat"
+                )
+            )
+            ListName2.add(
+                IrregularVerbsModel("Sleep", "Slept", "Slept"
+                )
+            )
+            ListName2.add(
+                    IrregularVerbsModel("Speak", "Spoke", "Spoken"
+                    )
+                    )
+            ListName2.add(
+                    IrregularVerbsModel("Spend", "Spent", "Spent"
+                    )
+                    )
+            ListName2.add(
+                IrregularVerbsModel("Spread", "Spread", "Spread"
+                )
+            )
+            ListName2.add(
+                IrregularVerbsModel("Stand", "Stood", "Stood"
+                )
+            )
+            ListName2.add(
+                IrregularVerbsModel("Steal", "Stole", "Stolen"
+                )
+            )
+            ListName2.add(
+                IrregularVerbsModel("Stick", "Stuck", "Sttuck"
+                )
+            )
+            ListName2.add(
+                IrregularVerbsModel("Sweep", "Swept", "Swept"
+                )
+            )
+            ListName2.add(
+                IrregularVerbsModel("Swim", "Swam", "Swum"
+                )
+            )
+            ListName2.add(
+                IrregularVerbsModel("Take", "Took", "Taken"
+                )
+            )
+            ListName2.add(
+                IrregularVerbsModel("Teach", "Taught", "Taught"
+                )
+            )
+            ListName2.add(
+                IrregularVerbsModel("Tear", "Tore", "Torn"
+                )
+            )
+            ListName2.add(
+                IrregularVerbsModel("Tell", "Told", "Told"
+                )
+            )
+
+            ListName2.add(
+                IrregularVerbsModel("Think", "Thought", "Thought"
+                )
+            )
+            ListName2.add(
+                    IrregularVerbsModel("Throw", "Threw", "Thrown"
+                    )
+                    )
+            ListName2.add(
+                IrregularVerbsModel("Understand", "Understood", "Understood"
+                )
+            )
+            ListName2.add(
+                IrregularVerbsModel("Wake", "Woke", "Woken"
+                )
+            )
+            ListName2.add(
+                IrregularVerbsModel("Wear", "Wore", "Worn"
+                )
+            )
+            ListName2.add(
+                IrregularVerbsModel("Win", "Won", "Won"
+                )
+            )
+            ListName2.add(
+                IrregularVerbsModel("Write", "Wrote", "Written"
+                )
+            )
+            //     val RVIrregularVerbs = findViewById(R.id.RVIrregularVerbs_item) as RecyclerView
             RVIrregularVerbs.layoutManager = LinearLayoutManager(this)
             RVIrregularVerbs.adapter = AdapterIrregularVerbs(this,ListName2)
         }
