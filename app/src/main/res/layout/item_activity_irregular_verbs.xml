@@ -8,6 +8,7 @@
     <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
             android:layout_height="60dp">
+
         <androidx.constraintlayout.widget.ConstraintLayout
                 android:layout_width="match_parent"
                 android:layout_height="60dp">
@@ -15,10 +16,10 @@
             <TextView
                     android:id="@+id/textView_IrregularVerbs_infinitive"
                     style="@android:style/Widget.TextView.PopupMenu"
-                    android:layout_width="70dp"
+                    android:layout_width="80dp"
                     android:layout_height="50dp"
-                    android:layout_marginStart="40dp"
-                    android:layout_marginTop="8dp"
+                    android:layout_marginStart="36dp"
+                    android:layout_marginTop="4dp"
                     android:layout_marginEnd="3dp"
                     android:text="Infinitive"
                     android:textColor="@android:color/holo_purple"
@@ -31,13 +32,13 @@
             <TextView
                     android:id="@+id/textView_IrregularVerbs_pastsimple"
                     style="@android:style/Widget.TextView.PopupMenu"
-                    android:layout_width="70dp"
+                    android:layout_width="80dp"
                     android:layout_height="50dp"
                     android:layout_marginStart="40dp"
                     android:layout_marginTop="4dp"
                     android:layout_marginEnd="3dp"
                     android:text="Past Participle"
-                    android:textColor="#96CC66"
+                    android:textColor="@android:color/holo_blue_dark"
                     android:textColorHighlight="@android:color/black"
                     android:textStyle="italic"
                     app:layout_constraintEnd_toEndOf="parent"
@@ -48,7 +49,7 @@
             <TextView
                     android:id="@+id/textView_IrregularVerbs_pastparticiple"
                     style="@android:style/Widget.TextView.PopupMenu"
-                    android:layout_width="70dp"
+                    android:layout_width="80dp"
                     android:layout_height="50dp"
                     android:layout_marginStart="40dp"
                     android:layout_marginTop="4dp"
@@ -58,7 +59,7 @@
                     android:textColorHighlight="@android:color/black"
                     android:textStyle="italic"
                     app:layout_constraintEnd_toEndOf="parent"
-                    app:layout_constraintHorizontal_bias="0.106"
+                    app:layout_constraintHorizontal_bias="0.017"
                     app:layout_constraintStart_toEndOf="@+id/textView_IrregularVerbs_infinitive"
                     app:layout_constraintTop_toTopOf="parent" />
         </androidx.constraintlayout.widget.ConstraintLayout>

@@ -687,9 +687,9 @@ drawable abc_textfield_search_activated_mtrl_alpha
 drawable abc_textfield_search_default_mtrl_alpha
 drawable abc_textfield_search_material
 drawable abc_vector_test
-drawable background_main_screen
-drawable background_main_screen1
-drawable backgroundnew
+drawable background_mainsceen
+drawable background_mainscreen
+drawable background_tests_screeen_p
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
 drawable btn_checkbox_unchecked_mtrl
@@ -855,6 +855,7 @@ id radio
 id right
 id right_icon
 id right_side
+id root_layout
 id screen
 id scrollIndicatorDown
 id scrollIndicatorUp
@@ -876,6 +877,7 @@ id showCustom
 id showHome
 id showTitle
 id spacer
+id spinner
 id split_action_bar
 id spread
 id spread_inside
@@ -899,7 +901,6 @@ id text
 id text2
 id textSpacerNoButtons
 id textSpacerNoTitle
-id textView_Cards
 id textView_Collocations
 id textView_Fruits
 id textView_IrregularVerbs
@@ -908,9 +909,18 @@ id textView_IrregularVerbs_pastparticiple
 id textView_IrregularVerbs_pastsimple
 id textView_PhrasalVerbs
 id textView_Professions
+id textView_Results
+id textView_Tests
+id textView_Tests_C
+id textView_Tests_F
+id textView_Tests_IV
+id textView_Tests_P
+id textView_Tests_PV
+id textView_Tests_V
 id textView_Vegetables
 id textView_collocations_english
 id textView_collocations_translation
+id text_view
 id time
 id title
 id titleDividerNoCustom
@@ -971,6 +981,8 @@ layout activity_fruits
 layout activity_main
 layout activity_phrasal_verbs
 layout activity_professions
+layout activity_tests_pv
+layout activity_tests_screen
 layout activity_vegetables
 layout custom_dialog
 layout item_activity_irregular_verbs
@@ -1018,7 +1030,9 @@ string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
 string app_name
 string search_menu_title
+string spinner_title
 string status_bar_notification_info_overflow
+string text_1
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style Animation_AppCompat_Dialog

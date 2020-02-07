@@ -15,6 +15,7 @@ import android.icu.lang.UCharacter.GraphemeClusterBreak.T
 import com.example.phrasalverbs.MainScreen.Fruits.ActivityVegetables
 import com.example.phrasalverbs.MainScreen.IrregularVerbs.ActivityIrregularVerbs
 import com.example.phrasalverbs.MainScreen.Professions.ActivityProfessions
+import com.example.phrasalverbs.MainScreen.Tests.TestsScreenActivity
 import com.romainpiel.shimmer.Shimmer
 import kotlinx.android.synthetic.main.activity_main.*
 
@@ -32,7 +33,7 @@ var shimmer : Shimmer? = null
         shimmer!!.start(textView_Vegetables)
         shimmer!!.start(textView_Professions)
         shimmer!!.start(textView_IrregularVerbs)
-        shimmer!!.start(textView_Cards)
+        shimmer!!.start(textView_Tests)
 
 
 
@@ -60,6 +61,10 @@ var shimmer : Shimmer? = null
         }
     fun AddIrregularVerbs(view:View){
         val add = Intent (this,ActivityIrregularVerbs::class.java)
+        startActivity(add)
+    }
+    fun AddTests(view:View){
+        val add = Intent (this,TestsScreenActivity::class.java)
         startActivity(add)
     }
 }

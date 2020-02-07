@@ -33,6 +33,8 @@
         </activity>
         <activity android:name="com.example.phrasalverbs.MainScreen.IrregularVerbs.ActivityIrregularVerbs" >
         </activity>
+        <activity android:name="com.example.phrasalverbs.MainScreen.Tests.TestsScreenActivity" >
+        </activity>
         <activity android:name="com.example.phrasalverbs.MainScreen.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

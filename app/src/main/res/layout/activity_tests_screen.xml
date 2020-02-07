@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:orientation="vertical"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="60dp"
+        android:background="@drawable/background_tests_screeen_p">
+
+
+    <com.romainpiel.shimmer.ShimmerTextView
+            android:id="@+id/textView_Tests_PV"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_gravity="center"
+            android:onClick="AddActivityTests_PV"
+            android:text="Test 1"
+            android:gravity="center"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+    <com.romainpiel.shimmer.ShimmerTextView
+            android:id="@+id/textView_Tests_C"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:onClick="AddTests_C"
+            android:text="Test 2"
+            android:textColor="@color/cardview_dark_background"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+    <com.romainpiel.shimmer.ShimmerTextView
+            android:id="@+id/textView_Tests_F"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_gravity="center"
+            android:onClick="AddTests_F"
+            android:text="Test 3"
+            android:gravity="center"
+            android:textColor="@android:color/holo_red_dark"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+    <com.romainpiel.shimmer.ShimmerTextView
+            android:id="@+id/textView_Tests_V"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_gravity="center"
+            android:onClick="AddTests_V"
+            android:text="Test 4"
+            android:gravity="center"
+            android:textColor="@color/cardview_dark_background"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+    <com.romainpiel.shimmer.ShimmerTextView
+            android:id="@+id/textView_Tests_P"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_gravity="center"
+            android:onClick="AddPTests_P"
+            android:text="Test 5"
+            android:gravity="center"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+    <com.romainpiel.shimmer.ShimmerTextView
+            android:id="@+id/textView_Tests_IV"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_gravity="center"
+            android:onClick="AddTests_IV"
+            android:text="Test 6"
+            android:gravity="center"
+            android:textColor="@color/cardview_dark_background"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+    <com.romainpiel.shimmer.ShimmerTextView
+            android:id="@+id/textView_Results"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:onClick="AddResults"
+            android:text="Your results"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+</LinearLayout>
