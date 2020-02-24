@@ -21,20 +21,14 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="com.example.phrasalverbs.MainScreen.ActivityPhrasalVerbs.ActivityPhrasalVerbs" >
-        </activity>
-        <activity android:name="com.example.phrasalverbs.MainScreen.ActivityCollocations.ActivityCollocations" >
-        </activity>
-        <activity android:name="com.example.phrasalverbs.MainScreen.Fruits.ActivityFruits" >
-        </activity>
-        <activity android:name="com.example.phrasalverbs.MainScreen.Fruits.ActivityVegetables" >
-        </activity>
-        <activity android:name="com.example.phrasalverbs.MainScreen.Professions.ActivityProfessions" >
-        </activity>
-        <activity android:name="com.example.phrasalverbs.MainScreen.IrregularVerbs.ActivityIrregularVerbs" >
-        </activity>
-        <activity android:name="com.example.phrasalverbs.MainScreen.Tests.TestsScreenActivity" >
-        </activity>
+        <activity android:name="com.example.phrasalverbs.MainScreen.Tests.Test_1" />
+        <activity android:name="com.example.phrasalverbs.MainScreen.ActivityPhrasalVerbs.ActivityPhrasalVerbs" />
+        <activity android:name="com.example.phrasalverbs.MainScreen.ActivityCollocations.ActivityCollocations" />
+        <activity android:name="com.example.phrasalverbs.MainScreen.Fruits.ActivityFruits" />
+        <activity android:name="com.example.phrasalverbs.MainScreen.Fruits.ActivityVegetables" />
+        <activity android:name="com.example.phrasalverbs.MainScreen.Professions.ActivityProfessions" />
+        <activity android:name="com.example.phrasalverbs.MainScreen.IrregularVerbs.ActivityIrregularVerbs" />
+        <activity android:name="com.example.phrasalverbs.MainScreen.Tests.TestsScreenActivity" />
         <activity android:name="com.example.phrasalverbs.MainScreen.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

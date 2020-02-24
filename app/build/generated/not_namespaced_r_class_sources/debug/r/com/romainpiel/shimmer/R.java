@@ -12,19 +12,19 @@ public final class R {
     public static final class attr {
         private attr() {}
 
-        public static final int reflectionColor = 0x7f020111;
+        public static final int reflectionColor = 0x7f030111;
     }
     public static final class drawable {
         private drawable() {}
 
-        public static final int ic_launcher = 0x7f060063;
-        public static final int mask = 0x7f060066;
-        public static final int spot_mask = 0x7f060073;
+        public static final int ic_launcher = 0x7f070063;
+        public static final int mask = 0x7f070066;
+        public static final int spot_mask = 0x7f070073;
     }
     public static final class styleable {
         private styleable() {}
 
-        public static final int[] ShimmerView = { 0x7f020111 };
+        public static final int[] ShimmerView = { 0x7f030111 };
         public static final int ShimmerView_reflectionColor = 0;
     }
 }

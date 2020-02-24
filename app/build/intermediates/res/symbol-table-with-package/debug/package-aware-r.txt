@@ -23,6 +23,7 @@ anim btn_radio_to_off_mtrl_ring_outer_path_animation
 anim btn_radio_to_on_mtrl_dot_group_animation
 anim btn_radio_to_on_mtrl_ring_outer_animation
 anim btn_radio_to_on_mtrl_ring_outer_path_animation
+array mode
 attr actionBarDivider
 attr actionBarItemBackground
 attr actionBarPopupTheme
@@ -855,7 +856,6 @@ id radio
 id right
 id right_icon
 id right_side
-id root_layout
 id screen
 id scrollIndicatorDown
 id scrollIndicatorUp
@@ -901,6 +901,8 @@ id text
 id text2
 id textSpacerNoButtons
 id textSpacerNoTitle
+id textView
+id textView2
 id textView_Collocations
 id textView_Fruits
 id textView_IrregularVerbs
@@ -920,7 +922,6 @@ id textView_Tests_V
 id textView_Vegetables
 id textView_collocations_english
 id textView_collocations_translation
-id text_view
 id time
 id title
 id titleDividerNoCustom
@@ -997,6 +998,8 @@ layout notification_template_part_time
 layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
+layout simple_spinner_drop_down
+layout simple_spinner_item
 layout support_simple_spinner_dropdown_item
 menu menu
 mipmap ic_launcher
@@ -1029,10 +1032,9 @@ string abc_shareactionprovider_share_with
 string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
 string app_name
+string prompt
 string search_menu_title
-string spinner_title
 string status_bar_notification_info_overflow
-string text_1
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style Animation_AppCompat_Dialog
@@ -1387,6 +1389,7 @@ style Widget_AppCompat_Toolbar
 style Widget_AppCompat_Toolbar_Button_Navigation
 style Widget_Compat_NotificationActionContainer
 style Widget_Compat_NotificationActionText
+style spinnerDropDownItemStyle
 styleable ActionBar background backgroundSplit backgroundStacked contentInsetEnd contentInsetEndWithActions contentInsetLeft contentInsetRight contentInsetStart contentInsetStartWithNavigation customNavigationLayout displayOptions divider elevation height hideOnContentScroll homeAsUpIndicator homeLayout icon indeterminateProgressStyle itemPadding logo navigationMode popupTheme progressBarPadding progressBarStyle subtitle subtitleTextStyle title titleTextStyle
 styleable ActionBarLayout android_layout_gravity
 styleable ActionMenuItemView android_minWidth

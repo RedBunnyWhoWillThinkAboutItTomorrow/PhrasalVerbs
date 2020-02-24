@@ -1,5 +1,11 @@
 <resources>
     <string name="app_name">PhrasalVerbs</string>
-    <string name="spinner_title">Выбор пункта</string>
-    <string name="text_1">My wife likes to eat out and so she does not have to cook</string>
+
+    <string-array name="mode">
+        <item>put out</item>
+        <item>eat out</item>
+        <item>cheer up</item>
+
+    </string-array>
+    <string name="prompt">Select Mode</string>
 </resources>

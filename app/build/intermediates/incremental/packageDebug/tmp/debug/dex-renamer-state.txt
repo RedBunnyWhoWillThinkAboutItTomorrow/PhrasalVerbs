@@ -1,7 +1,7 @@
-#Fri Feb 07 19:55:50 EET 2020
-base.0=D\:\\Kotlin\\RadixSort\\PhrasalVerbs\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+#Mon Feb 24 17:46:51 EET 2020
+base.0=D\:\\MyProjectsAndroid\\PhrasalVerbs\\PhrasalVerbs\\PhrasalVerbs\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
 path.1=classes.dex
 renamed.1=classes2.dex
 path.0=classes.dex
 renamed.0=classes.dex
-base.1=D\:\\Kotlin\\RadixSort\\PhrasalVerbs\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
+base.1=D\:\\MyProjectsAndroid\\PhrasalVerbs\\PhrasalVerbs\\PhrasalVerbs\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex

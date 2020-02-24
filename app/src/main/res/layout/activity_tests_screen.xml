@@ -16,6 +16,7 @@
             android:layout_gravity="center"
             android:onClick="AddActivityTests_PV"
             android:text="Test 1"
+
             android:gravity="center"
             android:textColor="@color/colorPrimaryDark"
             android:textSize="30sp"
